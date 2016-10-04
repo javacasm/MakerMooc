@@ -1,23 +1,29 @@
 # Ideas Clave
 
-tema_3_ideas_clave.ppt
-Unidad 3 - Ideas clave - 1 Vídeo.docx
-Unidad3-Ideas_clave_actividades.docx
+## tema_3_ideas_clave.ppt
+SIN HACER
 
-# Objetivos
-
-Unidad3-Objetivos_actividades.docx
-Unidad 3 - Objetivos - 1 Vídeo.docx
-tema_3_objetivos.ppt
+## Unidad 3 - Ideas clave - 1 Vídeo.docx
+* Diapo 1: Presentación
+* Diapo 5: Buscar imágenes mejores de LipyPad y del Nano
+* Diapo 6: Buscar imágenes de simuladores
+* Diapo 6: Referencias a los simuladores
+* Diapo 7: Imagen para la descarga e instalación del IDE Arduino
+* Diapo 10: Hacer lo mismo con el simulador
+* Diapo 11: Imagen
 
 # Producto Final
+unidad3reto.ppt SIN HACER
 Unidad 3 - Producto final - 1 Vídeo.docx
 Unidad3-Producto_final_actividades.docx
-unidad3reto.ppt
+
 
 
 codigo:
 _1._Parpadeo
+¿_2._Semaforo?
+¿_3._Paso_a_nivel?
+
 
 imagenes:
 Arduino_Breadboard_LCD_Trial_One.jpg
