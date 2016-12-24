@@ -1,0 +1,48 @@
+# Historia
+
+## El origen
+
+Arduino nace ante la necesidad de crear proyectos donde se necesitaba una placa programable que controlara la electrónica por personal sin formación técnica.
+
+En esa época se necesitaban conocimientos de ingeniería para controlar la electrónica de proyectos similares
+
+Máximo Banzi, uno de sus creadores trabajaba en el Instituto de diseño de **¿¿¿Ivrea???** ayudando a los diseñadores, sin conocimientos técnicos, en la parte electrónica y en la programación de sus proyectos.
+
+Se dio cuenta que siempre tenía que hacer las mismas tareas: encender y apagar luces, controlar pequeños motores e interaccionar con programas de ordenador.
+
+A este tipo de programación la llamaron **Programación Física** puesto que permitía crear interacción entre el ordenador y el mundo físico que lo rodea.
+
+Por ésto pensó en crear una placa con una electrónica muy sencilla y barata (pero robusta), que personas sin conocimientos técnicos pudieran utilizar. Para la parte de la programción que necesitaba se unió a David Cuartielles, que elaboró (programando una parte y reutilizando mucho software abierto existiendo) todo un paquete de software con todo lo necesario para que se pudiera reprogramar la placa.
+
+**TODO: ¿y los otros 3?**
+
+Tenían claros varios requisitos que cumpliría Arduino:
+
+* Querían una placa muy **barata**, de unos 25$ (las placas similares existentes en ese momento rondaban los 100$)
+* Querían que fuera totalmente libre: **100% Open Source**. Cualquiera con unos conocimientos básicos podría utilizarla y hasta construirse una.
+
+**TODO: Falta otras 3**
+
+## No estaban solos
+
+En esa época existían diferentes tipos de placas que podrían haber utilizado pero querían que su placa fuera sencilla y muy barata, por lo que decidieron diseñar una placa desde cero
+
+Muchas de las alternativas estaban diseñadas por grandes empresas y tenían detrás grandes equipos técnicos pero no han llegado a conseguir la difusión del proyecto Arduino
+
+## El poder de lo libre
+
+Del mismo modo que ellos habían utilizado diseños y distintos softwares todos ellos publicados con licencias libres, decidieron que todo lo relacionado con Arduino tendría esa misma licencia:
+
+* Diseño de las placas: todo el diseño está publicado con licencia libre, permitiendo que cualquiera pueda construirse una.
+* Software: todo el código fuente del entorno de programación está disponible para que cualquiera pueda utilizarlo e incluso mejorarlo.
+* Documentación: un estupendo manual y multitud de ejemplos incluídos en la aplicación con la que se programa.
+
+La mayoría de estos fabricantes de otras placas similares a Arduino obligan a utilizar sus propias herramientas, con restricciónes de copyrights.
+
+Todo esto posibilitó que una enorme comunidad de usuarios fuera emergiendo, mejorando el desarrollo, amplicando la documentación y el número de ejemplos e incluso ayudando a los usuarios más novatos en su aprendizaje
+
+## El poder de Internet
+
+Los creadores de Arduino se conocieron y comunicaron a través de Internet. De hecho casi todos ellos vivían en paises distintos.
+
+Algunos de ellos eran (y siguen siendo) muy activos en las redes sociales, y desde el principio contestaban a lo usuarios menos expertos en foros y redes sociales. Esto también ayudó enormemente a la difusión de la plataforma Arduino.
