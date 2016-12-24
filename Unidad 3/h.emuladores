@@ -1,4 +1,5 @@
 # Arduino Simulator
+
 |Nombre|Web|Formato|Sistema operativo|Precio|valoracion
 |---|---|---|---|---|---
 |Arduino simulator|http://xevro.businesscatalyst.com/arduino-simulator-1.4-en.html | aplicación| windows | comercial
@@ -8,3 +9,7 @@
 |ArduSim | https://sourceforge.net/projects/ardusim/ | aplicación | Windows y Linux | gratuito|
 |Simulide| https://sourceforge.net/p/simulide/wiki/Home/ |
 |Virtual BreadBoard|
+
+Este documento  se publica con licencia libre CC share alike
+
+![Licencia CC](./imagenes/Licencia_CC.png)
