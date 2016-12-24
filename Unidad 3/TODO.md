@@ -1,6 +1,9 @@
+# Objetivos
+
+
 # Ideas Clave
 
-## tema_3_ideas_clave.ppt
+## Unidad 3 - Ideas clave.ppt
 SIN HACER
 
 ## Unidad 3 - Ideas clave - 1 Vídeo.docx
@@ -13,9 +16,9 @@ SIN HACER
 * Diapo 11: Imagen
 
 # Producto Final
-unidad3reto.ppt SIN HACER
+Unidad 3 Reto.ppt SIN HACER
 Unidad 3 - Producto final - 1 Vídeo.docx
-Unidad3-Producto_final_actividades.docx
+Unidad 3 - Producto final - Actividades.docx
 
 
 
