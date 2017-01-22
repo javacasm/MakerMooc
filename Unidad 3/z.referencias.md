@@ -2,9 +2,6 @@
 
 ## Sobre la historia de Arduino
 
-Este documento  se publica con licencia libre CC share alike
-
-![Licencia CC](./imagenes/Licencia_CC.png)
 
 [Historia de Arduino](https://es.wikipedia.org/wiki/Arduino)
 
@@ -20,3 +17,8 @@ Este documento  se publica con licencia libre CC share alike
 Practicas arduino https://elsotanodemem.wordpress.com/category/arduinos-corner/2-practicas-completas/
 
 [Curso gratuito de arduino](http://www.prometec.net/curso-kit-inicio/) Incluye una detallada revisión de los sensores más utilizados
+
+
+Este documento  se publica con licencia libre CC share alike
+
+![Licencia CC](./imagenes/Licencia_CC.png)
