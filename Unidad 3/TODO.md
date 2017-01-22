@@ -1,5 +1,13 @@
 # Objetivos
 
+¿donde ponemos esto?
+
+- Búsqueda de ideas para nuestro montaje con Arduino
+-	Definición del proyecto educativo sencillo con Arduino.
+-	Creación del proyecto
+
+¡¡Faltan bastantes imágenes!!
+Se propone buscar proyectos ¿es una actividad?
 
 # Ideas Clave
 
@@ -15,29 +23,17 @@ SIN HACER
 * Diapo 10: Hacer lo mismo con el simulador
 * Diapo 11: Imagen
 
+## Unidad 3 - Ideas clave - Actividades
+
+Pestaña 1 - ¿qué es Arduino?
+Pestaña 2 - Historia
+Pestaña 3 - Proyectos y montajes (kit y sensores)
+Pestaña 4 - IDE (Vídeo 2 - con las capturas de la presentación)
+Pestaña 5 - Simuladores (Vídeo 3 - con las capturas de la presentación)
+
+
+
 # Producto Final
 Unidad 3 Reto.ppt SIN HACER
 Unidad 3 - Producto final - 1 Vídeo.docx
 Unidad 3 - Producto final - Actividades.docx
-
-
-
-codigo:
-_1._Parpadeo
-¿_2._Semaforo?
-¿_3._Paso_a_nivel?
-
-
-imagenes:
-Arduino_Breadboard_LCD_Trial_One.jpg
-Arduino_Mega.jpg
-Arduino_Nano_V3_1530635.JPG
-Arduino_top-1.jpg
-Arduino-uno-perspective-transparent.png
-Bloques.png
-CodigoParpadeo.png
-IDE_Arduino.png
-LilyPad_Arduino_Main_Board.JPG
-OrigenImagenes.md
-Parts_for_my_Arduino_Servo_Project.JPG
-Sensores.jpg
