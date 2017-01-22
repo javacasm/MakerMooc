@@ -1,13 +1,6 @@
 # Objetivos
 
-¿donde ponemos esto?
 
-- Búsqueda de ideas para nuestro montaje con Arduino
--	Definición del proyecto educativo sencillo con Arduino.
--	Creación del proyecto
-
-¡¡Faltan bastantes imágenes!!
-Se propone buscar proyectos ¿es una actividad?
 
 # Ideas Clave
 
@@ -34,6 +27,4 @@ Pestaña 5 - Simuladores (Vídeo 3 - con las capturas de la presentación)
 
 
 # Producto Final
-Unidad 3 Reto.ppt SIN HACER
-Unidad 3 - Producto final - 1 Vídeo.docx
-Unidad 3 - Producto final - Actividades.docx
+Más referencias
